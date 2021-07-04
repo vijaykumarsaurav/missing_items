@@ -1,0 +1,9 @@
+// _base.scss
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(210, 218, 207);
+$text-color : white; 
+
+body {
+    font: 100% $font-stack;
+    background-color: $primary-color;
+  }
